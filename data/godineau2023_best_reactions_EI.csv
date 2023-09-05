@@ -1,0 +1,12 @@
+,Round 0,Round 1,Round 2,Round 3,Round 4,Round 5,Round 6,Round 7,Round 8,Round 9,Round 10
+Base,TBAO,TBAO,TBAO,TBAO,Et3N,TBAO,K2CO3,K2CO3,K2CO3,K2CO3,K2CO3
+Solvent,EtOH,EtOH,EtOH,EtOH,EtOH,EtOH,EtOH,EtOH,EtOH,EtOH,DMSO
+Cu source,Cu(OAc)2,Cu2O,Cu2O,CuI,CuCl,Cu2O,Cu2O,Cu2O,CuBr,CuBr,CuBr
+Ligand,L5,L3,L5,L4,L4,L4,L9,L9,L7,L7,L7
+Ligand equiv.,0.05,0.05,0.05,0.05,0.05,0.1,0.1,0.1,0.1,0.1,0.1
+Molarity,0.5 M,0.5 M,1.0 M,1.0 M,1.0 M,1.0 M,1.0 M,1.0 M,1.0 M,1.0 M,1.0 M
+Base equiv.,2,2,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,2
+BnNH2 equiv.,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+T [°C],60,60,60,60,60,60,80,80,60,80,80
+,,,,,,,,,,,
+Yield (if in set),-,-,-,-,-,45.36,-,-,-,-,-
