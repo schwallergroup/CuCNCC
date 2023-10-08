@@ -1,4 +1,4 @@
-# CuCNCC
+# SHAP for chemical synthesis
 
 Complementary code to the project titled _Exploring the potential of machine learning as a tool for chemical synthesis using SHAP_ done in the context of a summer internship in EPFL's LIAC and supported by the Laidlaw Foundation.
 
